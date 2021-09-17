@@ -1,5 +1,6 @@
-= Clouds for everyone
+= Clouds
+Everyone gets their own cloud
+
 include::.variables.adoc[]
-With Enonic cloud everyone gets their very own personal cloud
 
 == Overview

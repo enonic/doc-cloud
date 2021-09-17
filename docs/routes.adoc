@@ -1,0 +1,8 @@
+= Routes 
+Guide your visitors to the destination
+
+include::.variables.adoc[]
+
+TODO
+
+== Introduction

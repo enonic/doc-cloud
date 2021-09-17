@@ -1,5 +1,6 @@
 = Enonic Cloud documentation
-This is our detailed documentation for Enonic Cloud
+Get into the nitty gritties of Enonic Cloud 
+
 include::.variables.adoc[]
 :section-1: Installing tools and initial setup
 :section-2: Working with content

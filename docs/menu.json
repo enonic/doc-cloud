@@ -7,6 +7,23 @@
     {
       "title": "Solutions",
       "document": "solutions"
+    },
+    {
+      "title": "Environments",
+      "document": "environments"
+    },
+    {
+      "title": "Applications",
+      "document": "applications"
+    },
+    {
+      "title": "Domains",
+      "document": "domains"
+    },
+    {
+      "title": "Routes",
+      "document": "routes"
     }
+
   ]
 }

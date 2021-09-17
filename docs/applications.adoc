@@ -1,0 +1,8 @@
+= Applications
+Yours, ours or someone elses
+
+include::.variables.adoc[]
+
+TODO
+
+== Introduction

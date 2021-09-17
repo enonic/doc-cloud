@@ -1,0 +1,8 @@
+= Environments
+Stage your way to the top
+
+include::.variables.adoc[]
+
+TODO
+
+== Introduction
