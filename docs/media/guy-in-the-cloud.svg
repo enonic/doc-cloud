@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="649px" height="360px" viewBox="0 0 649 360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="655px" height="366px" viewBox="0 0 655 366" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>Imported Layers</title>
     <defs>
-        <filter x="-1.9%" y="-3.5%" width="103.8%" height="107.0%" filterUnits="objectBoundingBox" id="filter-1">
-            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+        <filter x="-2.5%" y="-4.7%" width="105.1%" height="109.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="1" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
             <feColorMatrix values="0 0 0 0 0.424475186   0 0 0 0 0.418783534   0 0 0 0 0.418783534  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
             <feMerge>
                 <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
@@ -13,7 +13,7 @@
         </filter>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Imported-Layers" filter="url(#filter-1)" transform="translate(9.000000, 9.000000)">
+        <g id="Imported-Layers" filter="url(#filter-1)" transform="translate(12.000000, 12.000000)">
             <path d="M185.667161,152.821622 C185.667161,178.459297 166.319554,199.243038 142.452839,199.243038 C118.586698,199.243038 99.2390909,178.459297 99.2390909,152.821622 C99.2390909,127.183946 118.586698,106.400205 142.452839,106.400205 C166.319554,106.400205 185.667161,127.183946 185.667161,152.821622" id="Fill-1" fill="#FFFFFF"></path>
             <path d="M96.3709091,218.859665 C96.3709091,247.390476 74.8400418,270.518919 48.2812518,270.518919 C21.7218882,270.518919 0.191020909,247.390476 0.191020909,218.859665 C0.191020909,190.328854 21.7218882,167.199795 48.2812518,167.199795 C74.8400418,167.199795 96.3709091,190.328854 96.3709091,218.859665" id="Fill-2" fill="#FFFFFF"></path>
             <path d="M118.742727,173.156757 C118.742727,189.8328 106.158293,203.351351 90.6345455,203.351351 C75.1107982,203.351351 62.5263636,189.8328 62.5263636,173.156757 C62.5263636,156.480714 75.1107982,142.962162 90.6345455,142.962162 C106.158293,142.962162 118.742727,156.480714 118.742727,173.156757" id="Fill-3" fill="#FFFFFF"></path>

@@ -2,7 +2,7 @@
 {
   "versions": [
     {
-      "label": "xp7",
+      "label": "stable",
       "checkout": "master"
     }
   ]

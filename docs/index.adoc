@@ -1,4 +1,5 @@
 = Enonic Cloud documentation
+This is our detailed documentation for Enonic Cloud
 include::.variables.adoc[]
 :section-1: Installing tools and initial setup
 :section-2: Working with content
@@ -6,11 +7,9 @@ include::.variables.adoc[]
 :section-4: Deployment and next steps
 
 
-Enonic Cloud documentation
-
 NOTE: *TLDR;* If you just want to get up and running as fast as possible, check out the https://developer.enonic.com/start[quick start docs] instead 🚀
 
-This documentation is continuously being updated. If you have any questions or find any errors (or have any other feedback), don't hesitate to  https://github.com/enonic/doc-getting-started/[create an issue over at GitHub]
+This documentation is continuously being updated. If you have any questions, find errors, or have any other feedback follow the links available at the bottom of every page.
 
 
 == Introduction
