@@ -1,0 +1,12 @@
+{
+  "menuItems": [
+    {
+      "title": "Clouds",
+      "document": "clouds"
+    },
+    {
+      "title": "Solutions",
+      "document": "solutions"
+    }
+  ]
+}

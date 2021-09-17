@@ -1,0 +1,5 @@
+= Clouds for everyone
+include::.variables.adoc[]
+With Enonic cloud everyone gets their very own personal cloud
+
+== Overview

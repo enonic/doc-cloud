@@ -1,0 +1,5 @@
+= Solutions for every problem
+include::.variables.adoc[]
+Now, that may be an overstatement - but you will at least need a solution for hosting your Enonic apps and sites.
+
+== Overview
