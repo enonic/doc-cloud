@@ -8,13 +8,21 @@ include::.variables.adoc[]
 :section-4: Deployment and next steps
 
 
-NOTE: *TLDR;* If you just want to get up and running as fast as possible, check out the https://developer.enonic.com/start[quick start docs] instead 🚀
+NOTE: *TLDR;* Check out this video, demonstrating how https://youtu.be/B1tp7s_jq3U[build and deploy an app to Enonic Cloud] 🚀
 
 This documentation is continuously being updated. If you have any questions, find errors, or have any other feedback follow the links available at the bottom of every page.
 
-
 == Introduction
 
-Enonic Cloud is the fastest way to get your content and Enonic apps deployed to production. 
+Not planning to host the platform yourself? Enonic Cloud is the hassle free solution to your problem.
 
 image::guy-in-the-cloud.svg[Guy floating on a cloud]
+
+Enonic Cloud is our fully managed, self-service hosting offering. We have taken great care to optimise the developer and user exerience. Highlights from what the service offers are:
+
+* <<clouds#, Clouds>>: Get your personal cloud - or collaborate via organisation clouds (ala Github accounts)
+* <<solutions#, Solutions>>: Create solutions to manage multiple deployments of Enonic XP within a cloud (ala Github repos)
+* <<environments#, Environments>>: Within a solution, you may have multiple environments (i.e. production, stating, test etc)
+* <<applications#, Applications>>: Easily deploy and configure your applications for the different environments
+* <<domains#, Domains>>: You get some standard domains from us, but can also register your own domains as needed
+* <<routes#, Routes>>: Finally, direct and tune traffic to your apps and sites using routes.
